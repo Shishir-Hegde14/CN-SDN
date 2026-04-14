@@ -1,0 +1,59 @@
+loading app ./controller/network_util_monitor.py
+loading app ryu.controller.ofp_handler
+instantiating app ./controller/network_util_monitor.py of NetworkUtilizationMonitor
+instantiating app ryu.controller.ofp_handler of OFPHandler
+Switch connected: 0000000000000001
+---- Port Utilization for Switch 0000000000000001 ----
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0019 Mbps | TX: 0.0091 Mbps | RX bytes: 1122 | TX bytes: 3598
+Port 2 | RX: 0.0022 Mbps | TX: 0.0086 Mbps | RX bytes: 1212 | TX bytes: 3488
+Port 3 | RX: 0.0025 Mbps | TX: 0.0091 Mbps | RX bytes: 1122 | TX bytes: 3598
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0002 Mbps | TX: 0.0019 Mbps | RX bytes: 1192 | TX bytes: 4307
+Port 2 | RX: 0.0002 Mbps | TX: 0.0019 Mbps | RX bytes: 1282 | TX bytes: 4197
+Port 3 | RX: 0.0002 Mbps | TX: 0.0014 Mbps | RX bytes: 1192 | TX bytes: 4111
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0002 Mbps | TX: 0.0007 Mbps | RX bytes: 1276 | TX bytes: 4582
+Port 2 | RX: 0.0002 Mbps | TX: 0.0007 Mbps | RX bytes: 1366 | TX bytes: 4472
+Port 3 | RX: 0.0002 Mbps | TX: 0.0007 Mbps | RX bytes: 1276 | TX bytes: 4386
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1276 | TX bytes: 4582
+Port 2 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1366 | TX bytes: 4472
+Port 3 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1276 | TX bytes: 4386
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0002 Mbps | TX: 0.0006 Mbps | RX bytes: 1346 | TX bytes: 4792
+Port 2 | RX: 0.0002 Mbps | TX: 0.0006 Mbps | RX bytes: 1436 | TX bytes: 4682
+Port 3 | RX: 0.0002 Mbps | TX: 0.0006 Mbps | RX bytes: 1346 | TX bytes: 4596
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0000 Mbps | TX: 0.0003 Mbps | RX bytes: 1346 | TX bytes: 4899
+Port 2 | RX: 0.0000 Mbps | TX: 0.0003 Mbps | RX bytes: 1436 | TX bytes: 4789
+Port 3 | RX: 0.0000 Mbps | TX: 0.0003 Mbps | RX bytes: 1346 | TX bytes: 4703
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1346 | TX bytes: 4899
+Port 2 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1436 | TX bytes: 4789
+Port 3 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1346 | TX bytes: 4703
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1346 | TX bytes: 4899
+Port 2 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1436 | TX bytes: 4789
+Port 3 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1346 | TX bytes: 4703
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1346 | TX bytes: 4899
+Port 2 | RX: 0.0000 Mbps | TX: 0.0002 Mbps | RX bytes: 1436 | TX bytes: 4859
+Port 3 | RX: 0.0000 Mbps | TX: 0.0000 Mbps | RX bytes: 1346 | TX bytes: 4703
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0000 Mbps | TX: 0.0006 Mbps | RX bytes: 1346 | TX bytes: 5109
+Port 2 | RX: 0.0002 Mbps | TX: 0.0002 Mbps | RX bytes: 1506 | TX bytes: 4929
+Port 3 | RX: 0.0002 Mbps | TX: 0.0004 Mbps | RX bytes: 1416 | TX bytes: 4843
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 0.0002 Mbps | TX: 0.0003 Mbps | RX bytes: 1416 | TX bytes: 5216
+Port 2 | RX: 0.0000 Mbps | TX: 0.0005 Mbps | RX bytes: 1506 | TX bytes: 5106
+Port 3 | RX: 0.0000 Mbps | TX: 0.0005 Mbps | RX bytes: 1416 | TX bytes: 5020
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 15.8734 Mbps | TX: 0.2628 Mbps | RX bytes: 6092420 | TX bytes: 106072
+Port 2 | RX: 0.2854 Mbps | TX: 15.7510 Mbps | RX bytes: 111008 | TX bytes: 6049134
+Port 3 | RX: 0.0000 Mbps | TX: 16.0138 Mbps | RX bytes: 1416 | TX bytes: 6149904
+---- Port Utilization for Switch 0000000000000001 ----
+Port 1 | RX: 26.6332 Mbps | TX: 0.4967 Mbps | RX bytes: 16259042 | TX bytes: 295690
+Port 2 | RX: 0.5056 Mbps | TX: 26.9304 Mbps | RX bytes: 303992 | TX bytes: 16329194
+Port 3 | RX: 0.0000 Mbps | TX: 27.4271 Mbps | RX bytes: 1416 | TX bytes: 16619582
+Switch disconnected: 0000000000000001
