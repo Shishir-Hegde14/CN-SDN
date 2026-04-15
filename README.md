@@ -14,6 +14,17 @@ The controller:
 - Calculates RX/TX throughput (Mbps) using byte deltas
 - Prints per-port utilization logs in the controller console
 
+Controller endpoint:
+- Ryu Controller
+
+Switch endpoint:
+- s1
+
+Host endpoints:
+- h1
+- h2
+- h3
+
 ## Project Structure
 ```text
 sdn_project_19/
